@@ -10,7 +10,7 @@ configured default preset, it will use Preset 1.
 ## Setup
 Install required packages
 
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 ## Configuration
 
